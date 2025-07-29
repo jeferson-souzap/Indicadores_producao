@@ -6,7 +6,6 @@ import locale
 
 import seaborn as sns
 
-
 #CONFIGURAÇÃO PAGINA
 st.set_page_config(layout='wide', page_title='Inicio', page_icon='🏠', initial_sidebar_state="collapsed")
 st.header('Indicadores PICOFLEX')
